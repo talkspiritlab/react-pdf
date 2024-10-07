@@ -1,3 +1,5 @@
+## ⚠️ THIS PROJECT IS NOT MAINTAINED NOR USED BY OUR TEAM ANY MORE. PLEASE DO NOT USE IT. 
+
 ![downloads](https://img.shields.io/npm/dt/react-pdf.svg) ![build](https://img.shields.io/travis/wojtekmaj/react-pdf/master.svg) ![dependencies](https://img.shields.io/david/wojtekmaj/react-pdf.svg
 ) ![dev dependencies](https://img.shields.io/david/dev/wojtekmaj/react-pdf.svg
 ) [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
